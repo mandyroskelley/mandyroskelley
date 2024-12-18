@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mandy!<br/>Computer Science student at Regis Unversity
+<h1>Hi, I'm Mandy!<br/>Computer Science Graduate | Passionate About Software Development & Problem Solving
 
 <h2>👨‍💻 Coding Projects:</h2>
 
