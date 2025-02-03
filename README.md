@@ -4,7 +4,7 @@
 Hello! I'm Mandy, a recent computer science graduate with a strong passion for software development and problem-solving. Throughout my academic and personal projects, I've honed my skills in a variety of programming languages and technologies, driven by a deep fascination for creating innovative solutions.
 
 <h2>Skills & Expertise</h2>
-- Proficient in Java, C, C++, Python <br>
+- Proficient in Java, C, C++, Python, Dart (Flutter) <br>
 - Experience building desktop, mobile, and web applications<br>
 - Solid understanding of operating systems and computer architecture<br>
 - Hands-on experience with software engineering best practices<br>
