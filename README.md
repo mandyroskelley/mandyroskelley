@@ -14,6 +14,8 @@ Hello! I'm Mandy, a recent computer science graduate with a strong passion for s
 
 - <b>Buy A Home Colo App</b> A real estate app built using CodeName One and Java. 
   - [App Respository](https://github.com/mandyroskelley/buy-a-home-colo-app)
+- <b>Enhanced Property Search App</b> AI-powered real estate app built with Flutter.
+  - [App Respository](https://github.com/mandyroskelley/enhanced-property-search)
 - <b>Operating Systems Projects - Language: C</b>
   - [Projects Repository](https://github.com/mandyroskelley/operatingsystems)
 - <b>Java Projects - Language: Java</b>
